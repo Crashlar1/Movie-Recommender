@@ -66,5 +66,5 @@ Follow these steps to run the project locally:
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/crashlar1/movie-recommendation-system.git
-cd movie-recommendation-system
+git clone https://github.com/Crashlar1/Movie-Recommender.git
+cd Movie-Recommender
