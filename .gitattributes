@@ -1,0 +1,6 @@
+# Always use LF for code and notebooks
+*.py text eol=lf
+*.ipynb text eol=lf
+
+# Auto-detect text files and normalize
+* text=auto
