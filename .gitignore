@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit config and logs
+.streamlit/config.toml
+.streamlit/*.yaml
+.streamlit/*.log
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Environments
+myenv/
+venv/
+ENV/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# pycache
+**/__pycache__/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Virtual environment dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Data files (optional, if you're loading large CSVs, models, etc.)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.pkl
+*.joblib
+*.h5
+*.sqlite3
+
+# Checkpoints or auto-saved files
+*.bak
+*.tmp
+
+# Secret files
+.env
+.env.*
+
+# Jupyter Notebook output
+*.nbconvert.ipynb
